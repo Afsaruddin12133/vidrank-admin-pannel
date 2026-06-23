@@ -1,0 +1,8 @@
+{
+  "/admin/subscriptions/page": "app/admin/subscriptions/page.js",
+  "/admin/settings/page": "app/admin/settings/page.js",
+  "/admin/api-settings/page": "app/admin/api-settings/page.js",
+  "/admin/plans/page": "app/admin/plans/page.js",
+  "/admin/cloudinary/page": "app/admin/cloudinary/page.js",
+  "/admin/users/page": "app/admin/users/page.js"
+}
